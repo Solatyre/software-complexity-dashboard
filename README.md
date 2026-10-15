@@ -2,6 +2,9 @@
 
 A dashboard for exploring software complexity data: overview cards plus charts for complexity density, complexity over time, class scatter, LOC ranges and hotspots.
 
+![Software Complexity Dashboard screenshot](docs/screenshot.png)
+<!-- Add a screenshot at docs/screenshot.png -->
+
 **Stack:** React + Vite + Tailwind (frontend), Node.js + Express + PostgreSQL (backend).
 
 ## Run it
